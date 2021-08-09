@@ -12,5 +12,6 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!cdc
-hello git!
+hello git!cd
+hello git!cdz
+>>>>>>> hot-fix
